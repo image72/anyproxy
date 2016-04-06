@@ -122,9 +122,10 @@ new proxy.proxyServer(options);
 
 ```
 TODO:
-[] disable all rules by default, dynamic require rule via querystring.
-[] add http basic auth support.
-[] add gui/api upload file to replace.
+
+    [] disable all rules by default, dynamic require rule via querystring.
+    [] add http basic auth support.
+    [] add gui/api upload file to replace.
 
 
 Contact
